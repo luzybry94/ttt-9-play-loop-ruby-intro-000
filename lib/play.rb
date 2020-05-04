@@ -40,6 +40,8 @@ end
 def play(board)
   while -----------
     turn(board)
+  end
+end
 
 
 
